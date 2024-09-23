@@ -11,6 +11,3 @@ public:
 
 
 ```
-
-<h1 align="center">Hi 👋, I'm Hossam Abozeid </h1>
-<h3 align="center">I am software Engineer</h3>
