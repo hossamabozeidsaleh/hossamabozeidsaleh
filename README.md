@@ -2,7 +2,6 @@
 ```python
 class Data(
     val name: String = "Hossam Abozeid",
-    val role: String = "Software Engineer",
     val languageSpoken: Array<String> = arrayOf("ar_egy", "en_US")
 )
 
